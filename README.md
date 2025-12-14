@@ -4,6 +4,8 @@ I make my own NFC card on EasyEDA.
 
 <img width="1052" height="662" alt="Screenshot 2025-12-13 174509" src="https://github.com/user-attachments/assets/30fb4642-1faa-43d2-8bd8-e3058ae3b449" />
 
+<img width="1192" height="864" alt="Screenshot 2025-12-14 135151" src="https://github.com/user-attachments/assets/156067d7-e70b-4252-a6fd-4cfab76886bc" />
+
 I also got a BOM
 
 <img width="1797" height="145" alt="Screenshot 2025-12-13 174613" src="https://github.com/user-attachments/assets/14dd2242-01b2-4a8f-bef5-008b7108af2f" />
