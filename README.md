@@ -9,10 +9,13 @@ I make my own NFC card on EasyEDA.
 I also got a BOM
 
 <img width="1797" height="145" alt="Screenshot 2025-12-13 174613" src="https://github.com/user-attachments/assets/14dd2242-01b2-4a8f-bef5-008b7108af2f" />
+cost list
+part 1-0.07
+part 2-0.14
+part 3-0.02
+part 4-6.44
+board- 9.50
+total- 20(with shiping)
 
-And cost estimate
-
-<img width="476" height="495" alt="Screenshot 2025-12-13 174334" src="https://github.com/user-attachments/assets/5f923588-e872-418d-a244-b5c4969ce398" />
 
 
-The PCB comes with the parts pre-soldered because I do not own the tools to solder it myself.
