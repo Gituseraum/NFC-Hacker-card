@@ -22,6 +22,8 @@ part 4-6.44
 board- 9.50
 
 total- 20(with shiping)
+Final card after assembly
+<img width="3024" height="4032" alt="IMG_7733" src="https://github.com/user-attachments/assets/ec353b9a-833e-40a2-b83b-6c4d3959457e" />
 
 
 
